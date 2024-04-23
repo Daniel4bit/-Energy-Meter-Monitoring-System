@@ -2,9 +2,13 @@
 
 ## 1. Introduction:
 The Energy Meter Monitoring System is designed to read data from an L&T WL 4405 energy meter connected through Modbus protocol via an RS485 to TTL converter controller. The system displays 28 parameters related to 3-phase energy consumption on a cloud-based webpage and mobile application. Additionally, it sends emergency messages such as overvoltage, undervoltage, and overcurrent alerts via SMS to predefined mobile numbers. Users can also set maximum voltage, minimum voltage, and maximum current values through both the mobile app and webpage interfaces.
+![20240417_232429](https://github.com/Daniel4bit/-Energy-Meter-Monitoring-System/assets/65249875/bec2e43a-da90-4781-82b4-3238307a527a)
+![20240420_215615](https://github.com/Daniel4bit/-Energy-Meter-Monitoring-System/assets/65249875/6996da27-3f36-4787-95d5-a394d1e27dbc)
+
 
 ## 2. System Architecture:
 ### The system comprises the following components:
+![Screenshot 2024-04-23 113625](https://github.com/Daniel4bit/-Energy-Meter-Monitoring-System/assets/65249875/e05b5a12-4216-43a8-bbfd-886fd5b94e27)
 
 * L&T WL 4405 Energy Meter
 * RS485 to TTL Converter
